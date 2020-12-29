@@ -1,2 +1,2 @@
-# Basic javascript excercise
+# Basic javascript exercise
 
