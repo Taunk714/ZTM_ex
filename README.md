@@ -14,6 +14,6 @@ Excercise for The Complete Web Developer in 2021: Zero to Mastery.
 * [Shopping List](https://github.com/Taunk714/ZTM_ex/tree/main/DOM/ShoppingList)
 * [Background Generator](https://github.com/Taunk714/ZTM_ex/tree/main/DOM/BackgroundGenerator)
 
-# Advanced Javascript
-* [Scope]
-* [Control Flow]
+# Advanced Javascript [link](https://github.com/Taunk714/ZTM_ex/tree/main/ad_js)
+* [ex1: Scope]
+* [ex2: Control Flow]
