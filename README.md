@@ -17,3 +17,4 @@ Excercise for The Complete Web Developer in 2021: Zero to Mastery.
 # Advanced Javascript [link](https://github.com/Taunk714/ZTM_ex/tree/main/ad_js)
 * [ex1: Scope]
 * [ex2: Control Flow]
+* [ex3: ES6]
